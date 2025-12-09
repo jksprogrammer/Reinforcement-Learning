@@ -1,1 +1,1 @@
-# Reinforcement-Learning
+# Reinforcement-Learning – Multi-Armed Bandit 
